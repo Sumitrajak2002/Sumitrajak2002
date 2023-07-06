@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sumitrajak2002
-- 👀 I’m interested in frontend development , Design(UI,UX), CP
+- 👀 I’m interested in frontend development , Kotlin based app dev, CP
 - 🌱 I’m currently learning DSA, Frontend using css and js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me s.rajak@iitg.ac.in
